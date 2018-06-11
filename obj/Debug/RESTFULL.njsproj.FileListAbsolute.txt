@@ -1,0 +1,3 @@
+C:\Users\ganesh\Desktop\RESTFULL\RESTFULL\obj\Debug\RESTFULL.njsprojResolveAssemblyReference.cache
+C:\Users\ganesh\Desktop\RESTFULL\RESTFULL\obj\Debug\RESTFULL.njsproj.CoreCompileInputs.cache
+C:\Users\ganesh\Desktop\RESTFULL\RESTFULL\bin\Microsoft.NodejsTools.WebRole.dll
